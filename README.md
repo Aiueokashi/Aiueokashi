@@ -1,5 +1,5 @@
 # Nice to meet you and I’m glad that you have visited this page 😊
-[![Aiueokashi's github stats](https://github-readme-stats.vercel.app/api?username=aiueokashi&show_icons=true&icon_color=79ff97&bg_color=30,000000,c0c0c0&title_color=ff00ff&text_color=00ff00)](https://github.com/Aiueokashi/Gitstats-repo)
+[![Aiueokashi's github stats](https://github-readme-stats.vercel.app/api?username=aiueokashi&show_icons=true&icon_color=79ff97&bg_color=30,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&locale)](https://github.com/Aiueokashi/Gitstats-repo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&text_color=79ff97&bg_color=30,808080,000000&title_color=00ff00)](https://github.com/Aiueokasi/Gitstats-repo)
 <img src="https://grass-graph.moshimo.works/images/Aiueokashi.png">
 <!--
