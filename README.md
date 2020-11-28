@@ -1,6 +1,6 @@
 # Nice to meet you and I’m glad that you have visited this page 😊
-[![Aiueokashi's github stats](https://github-readme-stats.vercel.app/api?username=aiueokashi&show_icons=true&icon_color=79ff97&bg_color=30,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&locale&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/Gitstats-repo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&text_color=79ff97&bg_color=30,808080,000000&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)
+[![Aiueokashi's github stats](https://github-readme-stats.vercel.app/api?username=Aiueokashi&show_icons=true&icon_color=79ff97&bg_color=30,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&locale&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/Gitstats-repo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiueokashi&&text_color=79ff97&bg_color=30,808080,000000&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)
 <img src="https://grass-graph.moshimo.works/images/Aiueokashi.png">
 <!--
 **Aiaueokashi/Aiueokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
