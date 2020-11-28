@@ -11,7 +11,7 @@
 ## 使用してる言語
 |stats|[![Aiueokashi's github stats](https://github-readme-stats.vercel.app/api?username=Aiueokashi&count_private=false&show_icons=true&icon_color=79ff97&bg_color=3,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/Gitstats-repo)|
 |---|---|
-|language|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)|
+|**language**|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)|
 <br><br>
 <!--
 **Aiaueokashi/Aiueokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
