@@ -14,5 +14,8 @@
 |**language**|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)|
 <br><br>
 # READMEで遊ぶ
-||||
+|[これ](https://github.com/Aiueokashi/Aiueokashi/blob/main/README.md#projectというかなんというか)|stats|説明|
 |---|---|---|
+||||
+||||
+||||
