@@ -16,6 +16,6 @@
 # READMEで遊ぶ
 |[これ](https://github.com/Aiueokashi/Aiueokashi/blob/main/README.md#projectというかなんというか)|stats|説明|
 |---|---|---|
-||||
+|[DISCORD_BOT_JS_TEMPLATE](https://github.com/Aiueokashi/DISCORD_BOT_JS_TEMPLATE)|![badge](https://img.shields.io/github/repo-size/Aiueokashi/DISCORD_BOT_JS_TEMPLATE?color=ff00ff&label=size%3A)|NodeとAkairoフレームワークで作ってた[discord](https://discord.com)のbot|
 ||||
 ||||
