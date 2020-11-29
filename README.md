@@ -9,9 +9,9 @@
 - [ ] [PHPとかHTMLとかCSSとかJSとか:thinking:](https://github.com/Aiueokashi/testHTML)
 <br><br>
 ## 使用してる言語
-|stats|[![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi&count_private=true&show_icons=true&icon_color=79ff97&bg_color=3,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/Gitstats-repo)|
+|stats|[![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi&count_private=true&show_icons=true&icon_color=79ff97&bg_color=3,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/githubStats)|
 |---|---|
-|**language**|[![Top Langs](https://aiueokashi.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokasi/Gitstats-repo)|
+|**language**|[![Top Langs](https://aiueokashi.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokashi/githubStats)|
 <br><br>
 # READMEで遊ぶ
 |[これ](https://github.com/Aiueokashi/Aiueokashi/blob/main/README.md#projectというかなんというか)|stats|説明|
