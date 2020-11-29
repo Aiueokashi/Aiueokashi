@@ -6,6 +6,9 @@
       * [プロジェクト一覧](#↓Projectというかなんというか)
       * [使ってる言語](#使用してる言語)
       * [リポジトリの説明とステータス](#各リポジトリ概要)
+
+# 最近思ったこと
+TS勉強しなきゃなぁ.....
 ## ↓Projectというかなんというか
 - [x] [DISCORD_BOT_JS_TEMPLATE](https://github.com/Aiueokashi/DISCORD_BOT_JS_TEMPLATE)(終わったというか開発停止中)
 - [ ] [eval-logger-bot](https://github.com/Aiueokashi/eval-logger-bot)
