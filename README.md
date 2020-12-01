@@ -48,9 +48,17 @@ TS勉強しなきゃなぁ.....
 ### GitHub-Statusについて
 ※Github-Statusは[このサイト](https://github.com/anuraghazra/github-readme-stats)のセルフホスティングです。<br>
 **使い方**<br>
-Markdown(.md)ファイルに以下のコードを貼り付けると使えます。
+Markdown(.md)ファイルに以下のコードを貼り付けると使えます。<br>
 `?username=`の部分にあなたのユーザー名を入れてください。
 ```
 [![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi)](https://github.com/Aiueokashi/githubStats)
 ```
+ランク表示は以下の通りです。
+|マーク|ランク|条件|
+|---|---|---|
+|♾|S|commit,PR,issue,star,contribute数が上位1%|
+|🔱A++|commit,PR,issue,star,contribute数が上位25%|
+|⚕|A+|commit,PR,issue,star,contribute数が上位45%|
+|⚜|A|commit,PR,issue,star,contribute数が上位60%|
+|🔰|B+|commit,PR,issue,star,contribute数が上位100%|
 ### shieldsについて
