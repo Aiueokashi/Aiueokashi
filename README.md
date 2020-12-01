@@ -25,7 +25,7 @@ TS勉強しなきゃなぁ.....
 - [ ] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)[リポジトリ](https://github.com/Aiueokashi/Blog_Post)
 
 <br><br>
-## 使用してる言語
+## [GitHub Status](https://github.com/Aiueokashi/githubStats)
 |stats|[![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi&count_private=true&show_icons=true&icon_color=79ff97&bg_color=3,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/githubStats)|
 |---|---|
 |**language**|[![Top Langs](https://aiueokashi.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokashi/githubStats)|
