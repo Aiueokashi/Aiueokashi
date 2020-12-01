@@ -14,7 +14,7 @@ TS勉強しなきゃなぁ.....
 - [x] [DISCORD_BOT_JS_TEMPLATE](https://github.com/Aiueokashi/DISCORD_BOT_JS_TEMPLATE)(終わったというか開発停止中)
 - [ ] [eval-logger-bot](https://github.com/Aiueokashi/eval-logger-bot)
 - [x] [discord-leveling](https://github.com/Aiueokashi/discord-leveling)
-- [ ] [SekaiViewerBot](https://github.com/Aiueokashi/Sekai-Viewer-Bot) データ提供:[Sekai-Viewer](https://github.com/Sekai-World/sekai-viewer)<br>
+- [ ] [SekaiViewerBot](https://github.com/Aiueokashi/Sekai-Viewer-Bot) データ提供:[Sekai-Viewer](https://github.com/Sekai-World/sekai-viewer)
 =====AtCoder------><br>
 - [ ] [AtCoder(ヘタクソだから見ないでぇ:cry:)](https://github.com/Aiueokashi/AtCoder)<br>
 =====新言語学習----><br>
