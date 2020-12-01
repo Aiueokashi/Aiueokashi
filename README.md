@@ -7,6 +7,7 @@
       * [使ってる言語](#gitHub-status)
       * [リポジトリの説明とステータス](#各リポジトリ概要)
       * [リポジトリの注意書きなど](#説明)
+        * [Github-Statusについて](#github-statusについて)
 
 # 最近思ったこと
 TS勉強しなきゃなぁ.....
@@ -43,3 +44,4 @@ TS勉強しなきゃなぁ.....
 |[shields](https://github.com/Aiueokashi/githubStats)|[![badge](https://img.shields.io/github/repo-size/Aiueokashi/shields?color=ff00ff&label=size%3A)](https://github.com/Aiueokashi/shields)[![badge](https://img.shields.io/github/license/Aiueokashi/shields?color=ff00ff&label=license%3A)](https://github.com/Aiueokashi/shields)[![badge](https://img.shields.io/tokei/lines/github/Aiueokashi/shields?color=ff00ff&label=%E3%82%B3%E3%83%BC%E3%83%89%E8%A1%8C%E6%95%B0)](https://github.com/Aiueokashi/shields)[![ReadMe Card](https://aiueokashi.vercel.app/api/pin/?username=Aiueokashi&repo=shields&icon_color=79ff97&show_owner=true&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00)](https://github.com/Aiueokashi/shields)|[shields.io](https://shields.io)のセルフホスティング。好きな時に更新できるようにセルフホスティングしようと思ったけど、常時起動が難しい(現在無能)|
 <br><br>
 # 説明
+### GitHub-Statusについて
