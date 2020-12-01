@@ -56,7 +56,7 @@ Markdown(.md)ファイルに以下のコードを貼り付けると使えます�
 ランク表示は以下の通りです。
 |マーク|ランク|条件|
 |---|---|---|
-|♾|S+|commit,PR,issue,star,contribute数が上位1%|
+|👑|S+|commit,PR,issue,star,contribute数が上位1%|
 |🔱|S|commit,PR,issue,star,contribute数が上位25%|
 |⚕|A++|commit,PR,issue,star,contribute数が上位45%|
 |⚜|A+|commit,PR,issue,star,contribute数が上位60%|
