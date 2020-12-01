@@ -1,5 +1,5 @@
 # Nice to meet you and I’m glad that you have visited this page 😊
-# あいうえお菓子です！よろしく！
+# あいうえお菓子です！よろしく！⇨[日記](https://aiueokashi.github.io/Blog_Post/)
 # 目次
    * [挨拶](#あいうえお菓子です！よろしく！)
       * [目次](#目次)
