@@ -10,7 +10,7 @@
 # 最近思ったこと
 TS勉強しなきゃなぁ.....
 ## ↓Projectというかなんというか
-  =====discord関連----><br>
+    =====discord関連----><br>
 - [x] [DISCORD_BOT_JS_TEMPLATE](https://github.com/Aiueokashi/DISCORD_BOT_JS_TEMPLATE)(終わったというか開発停止中)
 - [ ] [eval-logger-bot](https://github.com/Aiueokashi/eval-logger-bot)
 - [x] [discord-leveling](https://github.com/Aiueokashi/discord-leveling)
