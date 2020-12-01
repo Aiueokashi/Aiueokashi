@@ -8,6 +8,7 @@
       * [リポジトリの説明とステータス](#各リポジトリ概要)
       * [リポジトリの注意書きなど](#説明)
         * [Github-Statusについて](#github-statusについて)
+        * [shieldsについて](#shieldsについて)
 
 # 最近思ったこと
 TS勉強しなきゃなぁ.....
@@ -45,3 +46,11 @@ TS勉強しなきゃなぁ.....
 <br><br>
 # 説明
 ### GitHub-Statusについて
+※Github-Statusは[このサイト](https://github.com/anuraghazra/github-readme-stats)のセルフホスティングです。<br>
+**使い方**<br>
+Markdown(.md)ファイルに以下のコードを貼り付けると使えます。
+`?username=`の部分にあなたのユーザー名を入れてください。
+```
+[![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi)](https://github.com/Aiueokashi/githubStats)
+```
+### shieldsについて
