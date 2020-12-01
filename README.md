@@ -22,7 +22,7 @@ TS勉強しなきゃなぁ.....
 =====SelfHosting--><br>
 - [ ] [gitstats](https://github.com/Aiueokashi/githubStats)<br>
 =====サイト--------><br>
-- [ ] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)[リポジトリ](https://github.com/Aiueokashi/Blog_Post)
+- [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)[リポジトリ](https://github.com/Aiueokashi/Blog_Post)(一日一更新心がける)
 
 <br><br>
 ## [GitHub Status](https://github.com/Aiueokashi/githubStats)
