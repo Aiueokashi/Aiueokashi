@@ -23,7 +23,8 @@ TS勉強しなきゃなぁ.....
 =====新言語学習----><br>
 - [ ] [PHPとかHTMLとかCSSとかJSとか:thinking:(~~やるつもり~~)](https://github.com/Aiueokashi/testHTML)<br>
 =====SelfHosting--><br>
-- [ ] [gitstats](https://github.com/Aiueokashi/githubStats)<br>
+- [ ] [gitstats](https://github.com/Aiueokashi/githubStats)
+- [ ] [shields](https://github.com/Aiueokashi/shields)<br>
 =====サイト--------><br>
 - [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)|([リポジトリ](https://github.com/Aiueokashi/Blog_Post))(一日一更新心がける)
 
