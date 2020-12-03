@@ -50,7 +50,7 @@ TS勉強しなきゃなぁ.....
 ※Github-Statusは[このサイト](https://github.com/anuraghazra/github-readme-stats)のセルフホスティングです。<br>
 **使い方**<br>
 Markdown(.md)ファイルに以下のコードを貼り付けると使えます。<br>
-`?username=`の部分にあなたのユーザー名を入れてください。
+`?username=`の部分にユーザー名を入れてください。
 ```
 [![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi)](https://github.com/Aiueokashi/githubStats)
 ```
