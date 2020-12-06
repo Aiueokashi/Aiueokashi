@@ -26,6 +26,8 @@ TS勉強しなきゃなぁ.....
 - [ ] [gitstats](https://github.com/Aiueokashi/githubStats)
 - [ ] [shields](https://github.com/Aiueokashi/shields)<br>
 =====サイト--------><br>
+- [x] [SekaiViewer(Translator)](https://sekai.best/#/)
+- [x] [ProjectSekaiWiki(執筆者、~~最近サボり気味~~)](https://projectsekai.miraheze.org/wiki/Main_Page)
 - [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)|([リポジトリ](https://github.com/Aiueokashi/Blog_Post))(一日一更新心がける)
 
 <br><br>
