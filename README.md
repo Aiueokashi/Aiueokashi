@@ -35,6 +35,7 @@ TS勉強しなきゃなぁ.....
 |stats|[![Aiueokashi's github stats](https://aiueokashi.vercel.app/api?username=Aiueokashi&count_private=true&show_icons=true&icon_color=79ff97&bg_color=3,000000,c0c0c0&title_color=ff00ff&text_color=00ff00&custom_title=あいうえお菓子のすてーたす)](https://github.com/Aiueokashi/githubStats)|
 |---|---|
 |**language**|[![Top Langs](https://aiueokashi.vercel.app/api/top-langs/?username=Aiueokashi&text_color=79ff97&bg_color=30,000000,808080&title_color=00ff00&custom_title=使ってることば↓)](https://github.com/Aiueokashi/githubStats)|
+|**stats2**|[![trophy](https://github-profile-trophy.vercel.app/?username=Aiueokashi&theme=onedark)](https://github.com/Aiueokashi/Aiueokashi)|
 <br><br>
 # 各リポジトリ概要
 |[これ](https://github.com/Aiueokashi/Aiueokashi/blob/main/README.md#projectというかなんというか)|stats|説明|
